@@ -1,0 +1,8 @@
+first.txt reads: This is the first text file. / second.txt reads: This is the second text file.
+first.txt reads: This is the first text file. / second.txt reads: This is the second text file.
+first.txt reads: This is the first text file. / second.txt reads: This is the second text file.
+first.txt reads: This is the first text file. / second.txt reads: This is the second text file.
+first.txt reads: This is the first text file. / second.txt reads: This is the second text file.
+first.txt reads: This is the first text file. / second.txt reads: This is the second text file.
+first.txt reads: This is the first text file. / second.txt reads: This is the second text file.
+first.txt reads: This is the first text file. / second.txt reads: This is the second text file.
